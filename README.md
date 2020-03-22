@@ -4,7 +4,7 @@
 
 #
 
-[<p align="center">[Image]( "") **|** [GIF]( "") **|** [Video]( "")</p>]
+[<p align="center">Image]( "") **|** [GIF]( "") **|** [Video]( "")</p>
 
 
 
