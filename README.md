@@ -1,13 +1,9 @@
 # bitconnectX-Library
 
-**bitconnectX Library Of Community Created Content**
+### bitconnectX Community Created Content
 
 #
 
-[<p align="center">Image]( "") **|** [GIF]( "") **|** [Video]( "")</p>
+[<p align="center">Image]( "") **|** [GIF]( "") **|** [Video]( "") **|** [Video With Audio]( "")</p>
 
-
-
-#
-
-### Showcase
+### ShowCase
